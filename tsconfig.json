@@ -5,7 +5,6 @@
         "strict": true
 	},
 	"files" : [
-		"pagesandforms.ts",
-		"createapp2.ts"
+		"pagesandforms.ts"
 	]
 }
