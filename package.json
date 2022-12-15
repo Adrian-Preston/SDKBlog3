@@ -1,0 +1,25 @@
+{
+  "name": "sdkblog2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mendixmodelsdk": "^4.56.0",
+    "mendixplatformsdk": "^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian-Preston/SDKBlog3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adrian-Preston/SDKBlog3/issues"
+  },
+  "homepage": "https://github.com/Adrian-Preston/SDKBlog3#readme",
+  "description": ""
+}
